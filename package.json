@@ -1,0 +1,18 @@
+{
+  "name": "fastify_api_bus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start" : "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.13.0",
+    "fastify-swagger": "^5.2.0",
+    "mongoose": "^6.9.2",
+    "nodemon": "^2.0.20"
+  }
+}
